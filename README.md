@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #How to run
 ng serve --proxy-config proxy.config.json
 
@@ -29,7 +28,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
 # Proxy
 This is a sample angular5 app with node connection, to know about proxy
->>>>>>> 9278d0d69e6f0f9ce80424003b4509223938a311
